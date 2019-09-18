@@ -25,7 +25,7 @@ public class ClassScanner {
                 classList.addAll(getClassesFromJar(jarFilePath, path));
 
             }else {
-                //todo
+
             }
         }
         return classList;
